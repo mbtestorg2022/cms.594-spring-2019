@@ -4,24 +4,247 @@ title: Calendar
 uid: acd0aeef-a4dc-9b9b-9d59-acb002925d49
 ---
 
-| Ses # | Topics | Key Dates |
-| --- | --- | --- |
-| {{< td-colspan 4 >}}**Part 0: Welcome & Design Sprint**{{< /td-colspan >}} ||||
-| 1 | Introduction and Welcome | &nbsp; |
-| {{< td-colspan 4 >}}**Part 1: Learning Analytics**{{< /td-colspan >}} ||||
-| 2 |  {{< br >}}{{< br >}} Introduction to Learning Analytics and Educational Data Mining {{< br >}}{{< br >}}  | &nbsp; |
-| 3 | Playtesting Your Analysis and Visualization | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Final Demonstration of Your Data-Driven Work {{< br >}}{{< br >}}  | Mini-project #1 submission report due |
-| {{< td-colspan 4 >}}**Part 2: Practice Spaces**{{< /td-colspan >}} ||||
-| 5 | Introduction to Practice Spaces | &nbsp; |
-| 6 | Designing Practice Spaces |  {{< br >}}{{< br >}} Prototype of your proposed practice space due {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Demonstrations of Practice Space Mini-Projects {{< br >}}{{< br >}}  | Mini-project #2 submission report due |
-| {{< td-colspan 4 >}}**Part 3: Accessibility**{{< /td-colspan >}} ||||
-| 8 |  {{< br >}}{{< br >}} Choose a UDL Principle and a Learning Environment to Improve {{< br >}}{{< br >}}  | &nbsp; |
-| 9 | Playtest |  {{< br >}}{{< br >}} Prototype of how to improve technology with UDL due {{< br >}}{{< br >}}  |
-| 10 | Refine and Final Demo | Mini-project #3 due |
-| {{< td-colspan 4 >}}**Part 4: Final Project**{{< /td-colspan >}} ||||
-| 11 |  {{< br >}}{{< br >}} Problem Finding—Empathy/Stakeholder Interviews {{< br >}}{{< br >}}  | &nbsp; |
-| 12 | Ideation and Prototyping | Empathy/stakeholder interview due |
-| 13 | Playtesting | Playtest-ready project prototype due |
-| 14 | Final Project Presentations | Final project due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Ses #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Part 0: Welcome & Design Sprint**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Welcome
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Part 1: Learning Analytics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to Learning Analytics and Educational Data Mining
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Playtesting Your Analysis and Visualization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final Demonstration of Your Data-Driven Work
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Mini-project #1 submission report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Part 2: Practice Spaces**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Practice Spaces
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Designing Practice Spaces
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Prototype of your proposed practice space due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Demonstrations of Practice Space Mini-Projects
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Mini-project #2 submission report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Part 3: Accessibility**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Choose a UDL Principle and a Learning Environment to Improve
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Playtest
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Prototype of how to improve technology with UDL due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Refine and Final Demo
+{{< tdclose >}}
+{{< tdopen >}}
+Mini-project #3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Part 4: Final Project**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem Finding—Empathy/Stakeholder Interviews
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Ideation and Prototyping
+{{< tdclose >}}
+{{< tdopen >}}
+Empathy/stakeholder interview due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Playtesting
+{{< tdclose >}}
+{{< tdopen >}}
+Playtest-ready project prototype due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Final project due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -49,20 +49,126 @@ The participation and engagement of every student in the course and outside of c
 Grading
 -------
 
-| Assignments | Percentages |
-| --- | --- |
-| Class Participation | 20% |
-| Mini Projects | 50% |
-| Final Project | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Assignments
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mini Projects
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Student mini-projects and the final project will be rated using the generic criteria/scale below. The instructor will make modifications to the generic rubric to best fit the nature of the individual mini-projects and will notify students accordingly. In addition, in determining a student's grade consideration will be given for elegance of presentation, creativity, imagination, and originality, where these may appropriately be called for. Audience members and stakeholder/user guests will also be asked to fill out a rubric to provide the student with additional feedback.
 
 ### Written and Presentation Rubric
 
-| Element expecations | Percentages |
-| --- | --- |
-|  {{< br >}}{{< br >}} **Problem definition:** Establishes clear, well-defined problem {{< br >}}{{< br >}}  | 20% |
-|  {{< br >}}{{< br >}} **User-centered design:** Identifies user, context, and or/ application {{< br >}}{{< br >}}  | 10% |
-|  {{< br >}}{{< br >}} **Clarity of learning objective:** Clearly articulates learning objective and/or research question {{< br >}}{{< br >}}  | 10% |
-|  {{< br >}}{{< br >}} **Justification for use of technology to solve the problem****:** Provides a clear, well-reasoned, and well-articulated rationale for using the technology selected to solve the identified problem {{< br >}}{{< br >}}  | 10% |
-| **Prototype** | 50%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Element expecations
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Problem definition:** Establishes clear, well-defined problem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**User-centered design:** Identifies user, context, and or/ application
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Clarity of learning objective:** Clearly articulates learning objective and/or research question
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Justification for use of technology to solve the problem****:** Provides a clear, well-reasoned, and well-articulated rationale for using the technology selected to solve the identified problem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Prototype**
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
