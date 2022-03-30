@@ -57,13 +57,13 @@ Rabbit Hole
 {{< tdopen >}}
 
 
-Siemens, G., & Long, P. (2011). ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Penetrating the fog: Analytics in learning and education (PDF - 1.3MB)](https://er.educause.edu/~/media/files/article-downloads/erm1151.pdf)." _EDUCAUSE review_, 46 (5), 30.
+Siemens, G., & Long, P. (2011). "[Penetrating the fog: Analytics in learning and education (PDF - 1.3MB)](https://er.educause.edu/~/media/files/article-downloads/erm1151.pdf)." _EDUCAUSE review_, 46 (5), 30.
 
-Ferguson, R. (2012). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Learning analytics: drivers, developments and challenges (PDF)](http://oro.open.ac.uk/36374/1/IJTEL40501_Ferguson%20Jan%202013.pdf)." _International Journal of Technology Enhanced Learning_, 4 (5/6), 304–317. 
+Ferguson, R. (2012). "[Learning analytics: drivers, developments and challenges (PDF)](http://oro.open.ac.uk/36374/1/IJTEL40501_Ferguson%20Jan%202013.pdf)." _International Journal of Technology Enhanced Learning_, 4 (5/6), 304–317. 
 
-Chatti, M. A., Dyckhoff, A. L., Schroeder, U., & Thüs, H. (2012). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[A reference model for learning analytics (PDF)](https://www.thues.com/upload/pdf/2012/CDST12_IJTEL.pdf)." _International Journal of Technology Enhanced Learning_, 4 (5–6), 318–331. 
+Chatti, M. A., Dyckhoff, A. L., Schroeder, U., & Thüs, H. (2012). "[A reference model for learning analytics (PDF)](https://www.thues.com/upload/pdf/2012/CDST12_IJTEL.pdf)." _International Journal of Technology Enhanced Learning_, 4 (5–6), 318–331. 
 
-Veeramachaneni, K., O'Reilly, U. M., & Taylor, C. (2014). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Towards feature engineering at scale for data from massive open online courses (PDF)](https://arxiv.org/pdf/1407.5238.pdf)." arXiv preprint arXiv:1407.5238. 
+Veeramachaneni, K., O'Reilly, U. M., & Taylor, C. (2014). "[Towards feature engineering at scale for data from massive open online courses (PDF)](https://arxiv.org/pdf/1407.5238.pdf)." arXiv preprint arXiv:1407.5238. 
 
 [List of R tutorials](https://www.r-bloggers.com/curated-list-of-r-tutorials-for-data-science/).
 
@@ -74,7 +74,7 @@ Veeramachaneni, K., O'Reilly, U. M., & Taylor, C. (2014). "![This resource may n
 {{< tdopen >}}
 
 
-Ruipérez-Valiente, J. A. (2017). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Analyzing the behavior of students regarding learning activities, badges, and academic dishonesty in MOOC environments (PDF - 17MB)](http://eprints.networks.imdea.org/1582/1/ThesisJoseRuiperez_IMDEA.pdf)." Doctoral dissertation.
+Ruipérez-Valiente, J. A. (2017). "[Analyzing the behavior of students regarding learning activities, badges, and academic dishonesty in MOOC environments (PDF - 17MB)](http://eprints.networks.imdea.org/1582/1/ThesisJoseRuiperez_IMDEA.pdf)." Doctoral dissertation.
 
 
 {{< tdclose >}}
@@ -144,7 +144,7 @@ Identify a potential user/consumer of your mini-project. Share your prototype wi
 {{< tdopen >}}
 
 
-Grossman, P., Compton, C., Igra, D., Ronfeldt, M., Shahan, E., & Williamson, P. (2009). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Teaching practice: A cross-professional perspective (PDF - 1MB)](https://tedd.org/wp-content/uploads/2014/03/Grossman-et-al-Teaching-Practice-A-Cross-Professional-Perspective-copy.pdf?__cf_chl_jschl_tk__=f34c04f579ac9d307f87a049c4df780305bab234-1623683122-0-AX5BnBzwZaBdjINuGqO-ZLzCMRlsSvkHruSml4S_8Y-SJ36hZyC49ZU9GRVrXdkojBKo5V-PPhrPdg7i9ivBj3665qBvxN4Z-0TrOjfIi_gVyMHqQaeed_62z0X3ucIu6861wwZ2QDUIqXBJa5qBLYjQ0n109GAXOO9ZnqJWcQT3xxsKBUWxHWwlKw-b33jeqPBcuQQXezmq6un2qeAYRZZIHzBaNLE74-W_s_mth4FkkLaGJBBAlWmKd432oRSYhwSvQST_eF4YmLxtoPmn0fxks_qmP1LSEDWb-571ihfMkGMCWJ292PZE5U8aMBHTQw79N9hpyDjruZ5DYeY28OKNlym8-gMy4_DOvfQDLlKDLpU39md7nuWpRubxxhr4JHjSMlg1jJE4fYr8P23tORQTYBUBwGGhYuNMgcA2YvoDNGmqpSp85joJXdSmNErFrEOHbG1RlhG_ZEyJ06qKRtKYUoFmlD_nZ8tYc1kqiPFR-xKQucLgNUQyrUx3W4hMCGpB2EpUHESNySmsNqvGbCw)." _Teachers College Record_, 111 (9), 2055–2100.
+Grossman, P., Compton, C., Igra, D., Ronfeldt, M., Shahan, E., & Williamson, P. (2009). "[Teaching practice: A cross-professional perspective (PDF - 1MB)](https://tedd.org/wp-content/uploads/2014/03/Grossman-et-al-Teaching-Practice-A-Cross-Professional-Perspective-copy.pdf?__cf_chl_jschl_tk__=f34c04f579ac9d307f87a049c4df780305bab234-1623683122-0-AX5BnBzwZaBdjINuGqO-ZLzCMRlsSvkHruSml4S_8Y-SJ36hZyC49ZU9GRVrXdkojBKo5V-PPhrPdg7i9ivBj3665qBvxN4Z-0TrOjfIi_gVyMHqQaeed_62z0X3ucIu6861wwZ2QDUIqXBJa5qBLYjQ0n109GAXOO9ZnqJWcQT3xxsKBUWxHWwlKw-b33jeqPBcuQQXezmq6un2qeAYRZZIHzBaNLE74-W_s_mth4FkkLaGJBBAlWmKd432oRSYhwSvQST_eF4YmLxtoPmn0fxks_qmP1LSEDWb-571ihfMkGMCWJ292PZE5U8aMBHTQw79N9hpyDjruZ5DYeY28OKNlym8-gMy4_DOvfQDLlKDLpU39md7nuWpRubxxhr4JHjSMlg1jJE4fYr8P23tORQTYBUBwGGhYuNMgcA2YvoDNGmqpSp85joJXdSmNErFrEOHbG1RlhG_ZEyJ06qKRtKYUoFmlD_nZ8tYc1kqiPFR-xKQucLgNUQyrUx3W4hMCGpB2EpUHESNySmsNqvGbCw)." _Teachers College Record_, 111 (9), 2055–2100.
 
 Dotger, B., & Ashby, C. (2010). "[Exposing conditional inclusive ideologies through simulated interactions](https://www.researchgate.net/publication/258193089_Exposing_Conditional_Inclusive_Ideologies_Through_Simulated_Interactions)." _Teacher Education and Special Education: The Journal of the Teacher Education Division of the Council for Exceptional Children_, 33 (2), 114–130. 
 
@@ -181,7 +181,7 @@ Reich, J., Kim, Y. J., Robinson, K., Roy, D., & Thompson, M. (2018). "[Teacher p
 
 Video: [What is design-based implementation research (DBIR)?](http://learndbir.org/)
 
-Martin, W. Fishman, B., Penuel, W. R., Allen, A., & Cheng, B. H., & Sabelli, N. (2013). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Design-based implementation research: An emerging model for transforming the relationship of research and practice (PDF)](https://www.sri.com/sites/default/files/publications/fishman_penuel_allen_cheng_sabelli_2013.pdf)." In _Fishman, Penuel, Allen, & Cheng (Eds.), Design-based implementation research: Theories, methods, and exemplars_. National Society for the Study of Education Yearbook, Vol. 112(2), pp. 136-156. New York: Teachers College Record.
+Martin, W. Fishman, B., Penuel, W. R., Allen, A., & Cheng, B. H., & Sabelli, N. (2013). "[Design-based implementation research: An emerging model for transforming the relationship of research and practice (PDF)](https://www.sri.com/sites/default/files/publications/fishman_penuel_allen_cheng_sabelli_2013.pdf)." In _Fishman, Penuel, Allen, & Cheng (Eds.), Design-based implementation research: Theories, methods, and exemplars_. National Society for the Study of Education Yearbook, Vol. 112(2), pp. 136-156. New York: Teachers College Record.
 
 Ee, J. "[How design thinking is transforming businesses through technology](https://blog.rackspace.com/design-thinking-transforming-businesses-through-technology)." Rackspace. April 13, 2018.
 
@@ -237,7 +237,7 @@ CAST (2018). _[Universal design for learning guidelines version 2.2.](http://udl
 
 [National Education Technology Plan (2017)](https://tech.ed.gov/netp/). 
 
-Elder, B. et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[From attitudes to practice: Utilising inclusive teaching strategies in Kenyan primary schools (PDF)](https://static1.squarespace.com/static/58484e5c29687fa0619950ac/t/58487e7cb3db2b3b3873689f/1481145993303/Elder%2C+Damiani+%26+Oswago+%282015%29-+Inclusion+in+Kenyan+Schools.pdf)." _International Journal of Inclusive Education_, 2015.
+Elder, B. et al. "[From attitudes to practice: Utilising inclusive teaching strategies in Kenyan primary schools (PDF)](https://static1.squarespace.com/static/58484e5c29687fa0619950ac/t/58487e7cb3db2b3b3873689f/1481145993303/Elder%2C+Damiani+%26+Oswago+%282015%29-+Inclusion+in+Kenyan+Schools.pdf)." _International Journal of Inclusive Education_, 2015.
 
 
 {{< tdclose >}}
@@ -289,7 +289,7 @@ None—students will focus on the final development sprint for their learning UD
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[508 Standards Overview (2017) (PDF)](https://www.access-board.gov/attachments/article/1890/ict-rule-overview.pdf).
+[508 Standards Overview (2017) (PDF)](https://www.access-board.gov/attachments/article/1890/ict-rule-overview.pdf).
 
 Identify 1–3 [WCAG 2.1 standards](https://www.w3.org/TR/WCAG21/) and describe or demonstrate how your design meets the success criteria. Alternatively describe or demonstrate the remaining work you would need to do in order to meet the success criteria (e.g., if your design includes video does it meet [Success criterion 1.2.2 captions (prerecorded)](https://www.w3.org/TR/WCAG21/#captions-prerecorded)?).
 
@@ -308,7 +308,7 @@ Identify 1–3 [WCAG 2.1 standards](https://www.w3.org/TR/WCAG21/) and describe 
 {{< tdopen >}}
 
 
-U.S. Department of Education, Office of Educational Technology. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[EdTech developer’s guide (PDF 1.3MB)](https://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)." Washington, D.C., 2015. 
+U.S. Department of Education, Office of Educational Technology. "[EdTech developer’s guide (PDF 1.3MB)](https://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)." Washington, D.C., 2015. 
 
 Podcast: [The national education technology plan: How technology can improve teaching and learning](https://www.air.org/resource/national-education-technology-plan-how-technology-can-improve-teaching-and-learning#partI).
 
@@ -319,7 +319,7 @@ Podcast: [The national education technology plan: How technology can improve tea
 {{< tdopen >}}
 
 
-William R. Penuel, Anna-Ruth Allen, Cynthia E. Coburn & Caitlin Farrell (2015) "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Conceptualizing research–practice partnerships as joint work at boundaries (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.734.869&rep=rep1&type=pdf)." _Journal of Education for Students Placed at Risk (JESPAR)_, 20:1–2, 182–197.
+William R. Penuel, Anna-Ruth Allen, Cynthia E. Coburn & Caitlin Farrell (2015) "[Conceptualizing research–practice partnerships as joint work at boundaries (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.734.869&rep=rep1&type=pdf)." _Journal of Education for Students Placed at Risk (JESPAR)_, 20:1–2, 182–197.
 
 Outline a pitch to an identified stakeholder that describes why your innovation is designed for impact (i.e. why it will work as a solution to the identified problem) in the selected context. Use principles outlined in this week’s readings as evidence to support your point.
 
